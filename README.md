@@ -1,11 +1,11 @@
-### Hi there, I'm [Daniel!](https://austintatiousdesign.co) 👋
+### Hi there, I'm [Daniel Bisett!](https://austintatiousdesign.co) 👋
 <br />
 <br />
 
-Hi, I'm Daniel Bisett, a multilingual, Masters holding, Texas Teacher certified, online marketing certified, university lecturing, WordPress template building, content writing, accelerated mobile pages specializing, web-development and digital marketing small business owner and world traveling father of four.
+I'm a multilingual, Masters holding, Texas Teacher certified, online marketing certified, university lecturing, WordPress template building, content writing, accelerated mobile pages specializing, web-development and digital marketing small business owner and world traveling father of four.
 <br />
 - 🔭 I’m currently working on The Color Bar [The Color Bar](https://github.com/austintude/colorbar)
-- 🌱 I’m currently learning AMP | Typescript
+- 🌱 I’m currently specialising in AMP [Accelerated Mobile Pages](https://amp.dev)
 - 💬 Ask me about anything [here](https://github.com/austintude/austintude/issues)
 - ⚡ Fun fact: Two of my sites have been featured in Google's AMP-WP plugin showcase. Of the 500K+ active installations across the globe, only 5 agencies (to date) and 60 websites (again, to date) have been showcase, and two of them are mine! **See for yourself** : My agency (Austintatious Design) is showcased in the Agency Showcase [Agency Showcase](https://amp-wp.org/showcases/?showcase_type=agency) AND My client Hill Country Land Improvement has been showcased in the 'Standard/Native' Use group [Standard | Website](https://amp-wp.org/showcases/?showcase_type=website&template_mode=native)
 - 📫 How to reach me: ...<img align="left" alt="Daniel Bisett | LinkedIn" width="40px" src="https://danielbisett.com/wp-content/uploads/2020/06/linkedin-icon.png" /> [LinkedIn](https://linkedin.com/in/austintude) | <img align="left" alt="Daniel Bisett | Twitter" width="40px" src="https://danielbisett.com/wp-content/uploads/2020/06/twitter-icon.png" /> [Twitter](https://twitter.com/austintude)
